@@ -1,0 +1,20 @@
+{
+  "name": "freebase-ui-module",
+  "description": "Freebase ui component",
+  "version": "0.1.10",
+  "main": "./lib/service",
+  "keywords": [
+    
+  ],
+  "dependencies": {
+    "async": "^0.9.0",
+    "connect": "^3.3.5",
+    "express": "~3.3.8",
+    "freebase": "git+https://github.com/southbite/freebase-primus.git",
+    "mocha": "^2.2.5"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  }
+}
