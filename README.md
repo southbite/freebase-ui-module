@@ -1,8 +1,9 @@
 freebase-ui-module
 ==========
 
-This is an angular ui that allows for the exploration of a freebase instance. 
-To get it going:
+*This is an angular ui that allows for the exploration of a freebase instance. 
+To get it going:*
+
 - (1) git clone "https://github.com/southbite/freebase-ui-module.git" && cd freebase-ui-module
 - (2) npm install
 - (3) node test/service_test
